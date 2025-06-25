@@ -15,7 +15,7 @@ Sistema de login com os seguintes elementos:
 
 ## Conteúdo do repositório
 
-- `plano-de-testes-login.docx`: Documento com objetivo, escopo, critérios de entrada/saída, riscos e funcionalidades envolvidas.
+- `plano-de-testes-login.pdf`: Documento com objetivo, escopo, critérios de entrada/saída, riscos e funcionalidades envolvidas.
 - `casos-de-teste-login.xlsx`: Casos de teste com ID, descrição, passos, dados de entrada, resultados esperados e campos para evidência.
 - Pasta `evidencias/`: Prints de tela que comprovam a execução dos testes.
 
